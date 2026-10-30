@@ -101,3 +101,7 @@ A categorized collection of 500+ AI project resources — Machine Learning, Deep
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=110&section=footer" width="100%"/>
+
+
+### [Daily Projects Lab](https://github.com/ikram6566/daily-projects-lab)
+One project a day, built/copied from a curated 631-repo list.
