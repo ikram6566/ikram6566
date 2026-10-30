@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=190&section=header&text=Ikram%20ur%20Rehman&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Digital%20Marketing%20%7C%20IT%20Support%20%7C%20AI%20%26%20Automation&descAlignY=56&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=190&section=header&text=Ikram%20Ur%20Rehman&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=IT%20Support%20%7C%20AI%20%26%20Automation%20%7C%20Digital%20Marketing&descAlignY=56&descSize=17" width="100%"/>
 
 ### Turning data, marketing and technology into real business results
 
@@ -16,9 +16,9 @@ Computer Science graduate (BS, COMSATS University) with **3+ years of profession
 
 Today I combine three strengths in one profile:
 
-- **Digital Marketing** — SEO, Meta Ads, Google Ads, campaign strategy that is measured in leads and sales, not likes
 - **IT & Technical Support** — systems, websites, CRM and database administration, troubleshooting
 - **AI & Automation** — Python, machine learning projects, and workflow automation that saves hours every week
+- **Digital Marketing** — SEO, Meta Ads, Google Ads, campaign strategy that is measured in leads and sales, not likes
 
 Currently building a public portfolio of hands-on AI/ML projects — every project below is real, working code.
 
@@ -28,12 +28,12 @@ Currently building a public portfolio of hands-on AI/ML projects — every proje
 
 | Area | What you get |
 |---|---|
-| **Meta & Google Ads** | Full-funnel campaigns, audience research, A/B testing, reporting in plain numbers |
-| **SEO** | Technical audits, keyword strategy, content that ranks and converts |
-| **Websites** | WordPress & Shopify — build, fix, speed up, and manage |
-| **CRM & Data** | Database cleanup, Excel/Sheets systems, dashboards, data entry pipelines |
-| **AI & Automation** | Python scripts, ML models, chatbots and workflow automation |
 | **IT Support** | First point of contact for IT issues, Microsoft 365, systems support |
+| **AI & Automation** | Python scripts, ML models, chatbots and workflow automation |
+| **Websites** | WordPress & Shopify — build, fix, speed up, and manage |
+| **SEO** | Technical audits, keyword strategy, content that ranks and converts |
+| **Meta & Google Ads** | Full-funnel campaigns, audience research, A/B testing, reporting in plain numbers |
+| **CRM & Data** | Database cleanup, Excel/Sheets systems, dashboards, data entry pipelines |
 
 ---
 
@@ -96,7 +96,7 @@ A categorized collection of 500+ AI project resources — Machine Learning, Deep
 [![Email](https://img.shields.io/badge/Email-ikramrehman300@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikramrehman300@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@ikram6566-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ikram6566)
 
-**Open to freelance projects and collaborations — marketing, data, websites and AI automation.**
+**Open to freelance projects and collaborations — IT support, AI automation, websites, SEO and marketing.**
 
 </div>
 
